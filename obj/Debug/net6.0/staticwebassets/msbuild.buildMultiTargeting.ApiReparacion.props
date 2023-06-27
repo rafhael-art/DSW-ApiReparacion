@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ApiReparacion.props" />
+</Project>

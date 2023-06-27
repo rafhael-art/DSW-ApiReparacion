@@ -1,0 +1,142 @@
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/appsettings.json
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/ApiReparacion.exe
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/ApiReparacion.deps.json
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/ApiReparacion.runtimeconfig.json
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/ApiReparacion.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/ApiReparacion.pdb
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Humanizer.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Swashbuckle.AspNetCore.Annotations.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/ApiReparacion.csproj.AssemblyReference.cache
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/ApiReparacion.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/ApiReparacion.AssemblyInfoInputs.cache
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/ApiReparacion.AssemblyInfo.cs
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/ApiReparacion.csproj.CoreCompileInputs.cache
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/ApiReparacion.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/ApiReparacion.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/staticwebassets/msbuild.ApiReparacion.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/staticwebassets/msbuild.build.ApiReparacion.props
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ApiReparacion.props
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ApiReparacion.props
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/scopedcss/bundle/ApiReparacion.styles.css
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/ApiReparacion.csproj.CopyComplete
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/ApiReparacion.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/refint/ApiReparacion.dll
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/ApiReparacion.pdb
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/ApiReparacion.genruntimeconfig.cache
+C:/Users/braya/OneDrive/Documentos/DSW I/ApiReparacion/obj/Debug/net6.0/ref/ApiReparacion.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/appsettings.Development.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/appsettings.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/ApiReparacion
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/ApiReparacion.deps.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/ApiReparacion.runtimeconfig.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/ApiReparacion.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/ApiReparacion.pdb
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/AutoMapper.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Humanizer.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Swashbuckle.AspNetCore.Annotations.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/ApiReparacion.csproj.AssemblyReference.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/ApiReparacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/ApiReparacion.AssemblyInfoInputs.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/ApiReparacion.AssemblyInfo.cs
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/ApiReparacion.csproj.CoreCompileInputs.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/ApiReparacion.MvcApplicationPartsAssemblyInfo.cs
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/ApiReparacion.MvcApplicationPartsAssemblyInfo.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/staticwebassets/msbuild.ApiReparacion.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/staticwebassets/msbuild.build.ApiReparacion.props
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ApiReparacion.props
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ApiReparacion.props
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/staticwebassets.build.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/staticwebassets.development.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/scopedcss/bundle/ApiReparacion.styles.css
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/ApiReparacion.csproj.CopyComplete
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/ApiReparacion.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/refint/ApiReparacion.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/ApiReparacion.pdb
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/ApiReparacion.genruntimeconfig.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/DSWI/Proyecto/ApiReparacion/obj/Debug/net6.0/ref/ApiReparacion.dll
